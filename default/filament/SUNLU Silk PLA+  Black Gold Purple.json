@@ -1,0 +1,13 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 V3 SE 0.4 nozzle"
+    ],
+    "filament_settings_id": [
+        "SUNLU Silk PLA+  Black Gold Purple"
+    ],
+    "from": "User",
+    "inherits": "SUNLU Silk PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU Silk PLA+  Black Gold Purple",
+    "version": "2.3.1.10"
+}

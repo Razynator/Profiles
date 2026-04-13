@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#CC0000"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "15"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Creality Fast PLA"
+    ],
+    "filament_vendor": [
+        "Creality"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Fast PLA",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "slow_down_min_speed": [
+        "40"
+    ],
+    "version": "2.2.0.4"
+}

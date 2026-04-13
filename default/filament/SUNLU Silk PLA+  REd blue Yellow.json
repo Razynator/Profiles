@@ -1,0 +1,37 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 V3 SE 0.4 nozzle"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "SUNLU Silk PLA+  REd blue Yellow"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "SUNLU Silk PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU Silk PLA+  REd blue Yellow",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.09"
+    ],
+    "version": "2.3.1.10"
+}

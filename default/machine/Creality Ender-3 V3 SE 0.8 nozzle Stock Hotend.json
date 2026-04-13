@@ -1,0 +1,61 @@
+{
+    "bed_exclude_area": [],
+    "change_filament_gcode": "_SP_SET_PURGE PURGE=[first_flush_volume]",
+    "cooling_tube_length": "0",
+    "cooling_tube_retraction": "0",
+    "disable_m73": "0",
+    "enable_filament_ramming": "0",
+    "extra_loading_move": "0",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 V3 SE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END\n_SP_PRINT_END",
+    "machine_load_filament_time": "0",
+    "machine_max_speed_x": [
+        "200",
+        "250"
+    ],
+    "machine_max_speed_y": [
+        "200",
+        "250"
+    ],
+    "machine_start_gcode": "_SP_PRINT_START LANE=[initial_tool] TEMP=[nozzle_temperature_initial_layer]\nPRINT_START BED=[bed_temperature_initial_layer_single] EXTRUDER=[nozzle_temperature_initial_layer]",
+    "machine_tool_change_time": "20",
+    "manual_filament_change": "0",
+    "max_layer_height": [
+        "0.65"
+    ],
+    "min_layer_height": [
+        "0.3"
+    ],
+    "name": "Creality Ender-3 V3 SE 0.8 nozzle Stock Hotend",
+    "nozzle_diameter": [
+        "0.8"
+    ],
+    "parking_pos_retraction": "0",
+    "printer_settings_id": "Creality Ender-3 V3 SE 0.8 nozzle Stock Hotend",
+    "retract_before_wipe": [
+        "85%"
+    ],
+    "retract_length_toolchange": [
+        "0"
+    ],
+    "retraction_length": [
+        "3.5"
+    ],
+    "retraction_minimum_travel": [
+        "0.01"
+    ],
+    "retraction_speed": [
+        "25"
+    ],
+    "thumbnails": "48x48/PNG, 300x300/PNG",
+    "version": "2.3.1.0",
+    "z_hop": [
+        "0.2"
+    ],
+    "z_hop_types": [
+        "Normal Lift"
+    ]
+}

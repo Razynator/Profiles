@@ -1,0 +1,28 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 V3 SE 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#CFC8C0"
+    ],
+    "fan_min_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ Bone"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "eSUN PLA+ Bone",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "version": "2.3.1.0"
+}

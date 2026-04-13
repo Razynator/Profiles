@@ -1,0 +1,28 @@
+{
+    "compatible_printers": [
+        "Creality Ender-3 V3 SE 0.4 nozzle"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_settings_id": [
+        "eSUN ePLA-LW @System - Kopieren"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "eSUN ePLA-LW @System",
+    "is_custom_defined": "0",
+    "name": "eSUN ePLA-LW @System - Kopieren",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "version": "2.3.0.3"
+}
