@@ -24,7 +24,7 @@
     "manual_filament_change": "0",
     "name": "Creality Ender-3 V3 SE 0.4 nozzle Stock Hotend",
     "parking_pos_retraction": "0",
-    "print_host": "192.168.1.181",
+    "print_host": "https://print.zweisamundfrei.eu",
     "printer_extruder_id": [
         "1"
     ],
