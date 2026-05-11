@@ -11,8 +11,11 @@
     "filament_extruder_variant": [
         "Direct Drive Standard"
     ],
+    "filament_flow_ratio": [
+        "1.02"
+    ],
     "filament_retraction_length": [
-        "0.6"
+        "1.19"
     ],
     "filament_retraction_speed": [
         "20"
@@ -27,10 +30,13 @@
     "inherits": "Creality Generic TPU @Ender-3V3-all",
     "name": "Generic TPU",
     "nozzle_temperature": [
-        "225"
+        "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "220"
+    ],
+    "pressure_advance": [
+        "0.18"
     ],
     "version": "2.3.2.60"
 }
