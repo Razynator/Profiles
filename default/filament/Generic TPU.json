@@ -15,7 +15,7 @@
         "1.02"
     ],
     "filament_retraction_length": [
-        "1.19"
+        "2.4"
     ],
     "filament_retraction_speed": [
         "20"
@@ -36,7 +36,7 @@
         "220"
     ],
     "pressure_advance": [
-        "0.18"
+        "0.56"
     ],
     "version": "2.3.2.60"
 }
