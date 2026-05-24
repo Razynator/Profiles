@@ -11,8 +11,14 @@
     "fan_min_speed": [
         "40"
     ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "filament_flow_ratio": [
         "0.97"
+    ],
+    "filament_retraction_length": [
+        "1.2"
     ],
     "filament_settings_id": [
         "SUNLU PLA+ Braun"
@@ -28,7 +34,6 @@
         "65"
     ],
     "inherits": "SUNLU PLA+ @System",
-    "is_custom_defined": "0",
     "name": "SUNLU PLA+ Braun",
     "nozzle_temperature": [
         "205"
